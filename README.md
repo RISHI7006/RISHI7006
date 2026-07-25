@@ -263,7 +263,7 @@ Professional one-line description of the role and team.
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/RISHI7006/RISHI7006/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/your-username/RISHI7006/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 <br/>
