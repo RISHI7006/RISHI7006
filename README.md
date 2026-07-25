@@ -33,9 +33,8 @@
 ## 🪐 About Me
 
 <div align="center">
-<img src="https://img.shields.io/badge/-Software%20Engineer-6D28D9?style=flat-square" />
-<img src="https://img.shields.io/badge/-AI%2FML%20Engineer-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/-Full%20Stack%20Developer-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/-MCA%20Student-6D28D9?style=flat-square" />
+<img src="https://img.shields.io/badge/-AI%2FML%20ENTHUSIASTIC-7C3AED?style=flat-square" />
 </div>
 
 I'm **[RISHABH MISHRA ]**, a software engineer who builds systems that scale from prototype to production. My work sits at the intersection of **backend architecture**, **applied AI/ML**, and **full-stack product engineering** — I care as much about clean, maintainable code as I do about the product experience it powers.
