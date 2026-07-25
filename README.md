@@ -243,7 +243,7 @@ Professional one-line description of the role and team.
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=RISHI7006&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </div>
 
 <br/>
@@ -253,7 +253,7 @@ Professional one-line description of the role and team.
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RISHI7006&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
 </div>
 
 <br/>
@@ -263,7 +263,7 @@ Professional one-line description of the role and team.
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/RISHI7006/RISHI7006/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 <br/>
