@@ -37,11 +37,15 @@
 <img src="https://img.shields.io/badge/-AI%2FML%20ENTHUSIASTIC-7C3AED?style=flat-square" />
 </div>
 
-I'm **[RISHABH MISHRA ]**, a software engineer who builds systems that scale from prototype to production. My work sits at the intersection of **backend architecture**, **applied AI/ML**, and **full-stack product engineering** — I care as much about clean, maintainable code as I do about the product experience it powers.
+I am a passionate MCA student with a strong interest in Web Development, Artificial Intelligence, and Machine Learning. I have hands-on experience in Python, HTML, CSS, JavaScript, and AI/ML libraries such as Pandas, NumPy, and Scikit-learn.
 
-I approach engineering with a product mindset: understand the problem deeply, ship fast, iterate on real feedback, and never lose sight of performance, security, and scale.
+During my AI/ML virtual internship supported by Google, I worked on data preprocessing, model building, and evaluation techniques. I have developed projects including a responsive Coffee Shop website and machine learning regression models, Predictive Modeling and Risk Scoring for Bank Customer Churn,along with stock market data analysis using Power BI.
 
-**🎯 Open To:** Full-time Software Engineering roles · AI/ML Engineering · Freelance/Contract work · Open-source collaboration
+I am a quick learner who believes in consistency, teamwork, and continuous growth. I am looking for opportunities where I can apply my skills, gain real-world experience, and contribute to impactful technology solutions.
+
+
+
+
 
 <br/>
 
@@ -50,16 +54,16 @@ I approach engineering with a product mindset: understand the problem deeply, sh
 ## 🛠️ Tech Stack
 
 **Languages**
-![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts)  ![C++](https://skillicons.dev/icons?i=cpp)
 
 **Frontend**
-![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react)  ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
 
 **Backend & Databases**
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Django](https://skillicons.dev/icons?i=django) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Redis](https://skillicons.dev/icons?i=redis)
+![Node.js](https://skillicons.dev/icons?i=nodejs)  ![PostgreSQL](https://skillicons.dev/icons?i=postgres) 
 
-**Cloud, DevOps & Tooling**
-![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Git](https://skillicons.dev/icons?i=git) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Linux](https://skillicons.dev/icons?i=linux)
+**Tooling**
+![Git](https://skillicons.dev/icons?i=git) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
 
 <br/>
 
@@ -74,9 +78,6 @@ I approach engineering with a product mindset: understand the problem deeply, sh
 | Machine Learning | ⭐⭐⭐⭐☆ | Scikit-learn, model evaluation, feature engineering |
 | Deep Learning | ⭐⭐⭐⭐☆ | PyTorch/TensorFlow, CNNs, RNNs, transformers |
 | NLP | ⭐⭐⭐☆☆ | Text classification, embeddings, LLM integration |
-| MLOps | ⭐⭐⭐☆☆ | Model deployment, versioning, monitoring pipelines |
-| Data Engineering | ⭐⭐⭐☆☆ | ETL pipelines, data validation, warehousing |
-
 </div>
 
 <br/>
@@ -105,21 +106,21 @@ Short paragraph explaining the architecture decisions, challenges solved, and te
 </details>
 
 <details>
-<summary><b>🔹 Project Name Two</b></summary>
+<summary><b>🔹 Customer Churn Prediction </b></summary>
 <br/>
 
 One to two sentence description of what this project does and the problem it solves.
 
 | Aspect | Details |
 |:--|:--|
-| **Stack** | Python, FastAPI, PyTorch, AWS |
-| **Scale** | e.g. Processes X records/day |
-| **Performance** | e.g. 95% model accuracy |
-| **Security** | e.g. OAuth2, encrypted data at rest |
-| **Impact** | e.g. Automated a previously manual workflow |
-| **Repository** | [View Repo](https://github.com/your-username/project-two) |
+| **Programming Language** | Python |
+| **Libraries** |Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost, SHAP, Joblib, Plotly, Streamlit |
+| **Performance** | 86.95%  model accuracy |
+| **Security** | Used serialized (.pkl) models for secure and consistent deployment,Implemented input validation in the Streamlit application to reduce invalid                     user inputs.|
+| **Impact** | Enabled early identification of customers likely to leave, helping improve customer retention strategies.,Developed an interactive Streamlit web                   application for real-time churn prediction with explainable AI |
+| **Repository** | [View Repo](https://github.com/RISHI7006/Project-Bank-Customer-Churn-Analysis-ML-) |
 
-Short paragraph explaining the architecture decisions, challenges solved, and technical highlights of the project.
+
 
 </details>
 
