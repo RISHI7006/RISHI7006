@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=RISHABH MISHRA &fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=YOUR%20NAME&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems;Designing+Intelligent+Products;Turning+Ideas+Into+Production+Code" alt="Typing SVG" />
@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-8B5CF6?style=flat-square" />
 </div>
 
-I'm **[Your Name]**, a software engineer who builds systems that scale from prototype to production. My work sits at the intersection of **backend architecture**, **applied AI/ML**, and **full-stack product engineering** — I care as much about clean, maintainable code as I do about the product experience it powers.
+I'm **[RISHABH MISHRA ]**, a software engineer who builds systems that scale from prototype to production. My work sits at the intersection of **backend architecture**, **applied AI/ML**, and **full-stack product engineering** — I care as much about clean, maintainable code as I do about the product experience it powers.
 
 I approach engineering with a product mindset: understand the problem deeply, ship fast, iterate on real feedback, and never lose sight of performance, security, and scale.
 
