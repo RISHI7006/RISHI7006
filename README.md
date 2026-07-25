@@ -186,16 +186,16 @@ Professional one-line description of the role and team.
 ## 📜 Certifications
 
 **Google**
-![AI-ML Virtual Internship](https://certificate.eduskillsfoundation.org/verify/4b2b8e7965af84854e81/4b2b8e7965af84854e81)
+![AI-ML Virtual Internship]
 
 **Google**
-![Generative - AI Virtual Internship](https://certificate.eduskillsfoundation.org/verify/4e5a957947990e227142/4e5a957947990e227142)
+![Generative - AI Virtual Internship]
 
 **Nasscom**
-![LLM For Young Developers](https://www.futureskillsprime.in/iDH/user/credential/view/32914-b7f7e25e-08de-11f1-bdec-005056b48b54)
+![LLM For Young Developers]
 
 **Algo University**
-![GEN+AI+Camp](https://d3uam8jk4sa4y4.cloudfront.net/static/certificates/GEN_AI_Camp/rishabh-mishra.png)
+![GEN+AI+Camp]
 
 <br/>
 
