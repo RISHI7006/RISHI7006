@@ -160,6 +160,7 @@ Professional one-line description of the role and team.
 Professional one-line description of the role and team.
 
 •	Gaining practical knowledge about Generative AI, Large Language Models (LLMs), Prompt Engineering, and Responsible AI concepts Worked on data preprocessing, feature engineering, and model evaluation 
+
 •	Working with Google Vertex AI, multimodal AI techniques, embeddings, transformer models, and AI workflow automation. Completed hands-on projects under Google supported virtual internship program 
 
 <br/>
