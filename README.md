@@ -147,9 +147,12 @@ I am a quick learner who believes in consistency, teamwork, and continuous growt
 
 Professional one-line description of the role and team.
 
-•	Built and trained machine learning models using Python and Scikit-learn 
+•	Built and trained machine learning models using Python and Scikit-learn
+
 •	Worked on data preprocessing, feature engineering, and model evaluation 
+
 •	Implemented supervised learning algorithms for prediction tasks 
+
 •	Completed hands-on projects under Google supported virtual internship program 
 
 <br/>
