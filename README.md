@@ -8,8 +8,8 @@
 
 <br/>
 
-![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-City,%20Country-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)
+![MCA](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white)
+![PURANPUR](https://img.shields.io/badge/Location-City,%20Country-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
