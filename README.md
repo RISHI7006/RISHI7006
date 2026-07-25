@@ -20,9 +20,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=6d28d9&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/your-username?color=6d28d9&style=for-the-badge&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/your-username?color=6d28d9&style=for-the-badge&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=RISHI7006&color=6d28d9&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/RISHI7006?color=6d28d9&style=for-the-badge&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/RISHI7006?color=6d28d9&style=for-the-badge&label=STARS)
 
 </div>
 
