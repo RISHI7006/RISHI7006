@@ -229,10 +229,10 @@ Professional one-line description of the role and team.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=RISHI7006&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RISHI7006&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHI7006&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%" />
 
 </div>
 
