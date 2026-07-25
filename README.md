@@ -186,16 +186,16 @@ Professional one-line description of the role and team.
 ## 📜 Certifications
 
 **Google**
-![AI-ML Virtual Internship]
+[AI-ML Virtual Internship]
 
 **Google**
-![Generative - AI Virtual Internship]
+[Generative - AI Virtual Internship]
 
 **Nasscom**
-![LLM For Young Developers]
+[LLM For Young Developers]
 
 **Algo University**
-![GEN+AI+Camp]
+[GEN+AI+Camp]
 
 <br/>
 
