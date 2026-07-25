@@ -8,15 +8,15 @@
 
 <br/>
 
-![MCA](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white)
-![PURANPUR](https://img.shields.io/badge/Location-City,%20Country-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Degree](https://img.shields.io/badge/MCA-Computer%20Applications-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white)
+![Location](https://img.shields.io/badge/Puranpur,%20India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rishabh-mishra-156085307)
+[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](rishimis0706@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RISHI7006)
 
 <br/>
 
