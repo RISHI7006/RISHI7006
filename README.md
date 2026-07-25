@@ -87,29 +87,23 @@ I am a quick learner who believes in consistency, teamwork, and continuous growt
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🔹 Project Name One</b></summary>
+<summary><b>🔹Heart Disease Prediction Dashboard </b></summary>
 <br/>
-
-One to two sentence description of what this project does and the problem it solves.
 
 | Aspect | Details |
 |:--|:--|
-| **Stack** | React, Node.js, PostgreSQL, Docker |
-| **Scale** | e.g. 10K+ users / 1M+ requests handled |
-| **Performance** | e.g. <200ms average response time |
-| **Security** | e.g. JWT auth, rate limiting, input sanitization |
-| **Impact** | e.g. Reduced processing time by 40% |
-| **Repository** | [View Repo](https://github.com/your-username/project-one) |
-
-Short paragraph explaining the architecture decisions, challenges solved, and technical highlights of the project.
+| **Stack** | Python, Pandas, NumPy, Scikit-learn, Statsmodels, XGBoost, Matplotlib, Seaborn, Plotly, Streamlit, Joblib, Jupyter Notebook, Git/GitHub |
+| **Scale** | Analyzed the UCI Heart Disease Dataset containing 1,025 patient records and 14 medical features to build and compare multiple classification models |
+| **Performance** | Compared Logistic Regression, Ridge, Lasso, ElasticNet, Random Forest, and XGBoost using Accuracy, Precision, Recall, F1-Score, ROC-AUC, and                       Cross-Validation to identify the best-performing model. |
+| **Security** | Validated user inputs, handled preprocessing consistently, protected patient privacy by avoiding sensitive data exposure, and deployed only the                      trained model without storing personal information. |
+| **Impact** |Developed an interactive dashboard for heart disease risk prediction, enabling quick and explainable predictions to support early clinical decision-                 making and demonstrate end-to-end machine learning deployment.|
+| **Repository** | [View Repo](https://github.com/RISHI7006/Heart_Disease_Prediction-Using-ML-_With_dashbord) |
 
 </details>
 
 <details>
 <summary><b>🔹 Customer Churn Prediction </b></summary>
 <br/>
-
-One to two sentence description of what this project does and the problem it solves.
 
 | Aspect | Details |
 |:--|:--|
@@ -125,21 +119,20 @@ One to two sentence description of what this project does and the problem it sol
 </details>
 
 <details>
-<summary><b>🔹 Project Name Three</b></summary>
+<summary><b>🔹Coffee Shop Website(Frontend) </b></summary>
 <br/>
 
-One to two sentence description of what this project does and the problem it solves.
 
 | Aspect | Details |
 |:--|:--|
-| **Stack** | Next.js, TypeScript, MongoDB |
-| **Scale** | e.g. Full-stack SaaS with multi-tenant support |
-| **Performance** | e.g. Optimized queries reduced load time by 60% |
-| **Security** | e.g. RBAC, audit logging |
-| **Impact** | e.g. Adopted by X teams internally |
-| **Repository** | [View Repo](https://github.com/your-username/project-three) |
+| **Stack** | HTML5, CSS3, JavaScript (ES6), Local Storage, Responsive Design, SVG Graphics, Git & GitHub |
+| **Scale** | Developed a fully responsive multi-section coffee shop website featuring product catalog, menu filtering, shopping cart, login system, bill                        generation, dark mode, and mobile-friendly navigation |
+| **Performance** | Optimized page responsiveness with efficient DOM manipulation, smooth animations, lazy UI updates, local storage persistence, and interactive                      cart management for a seamless user experience. |
+| **Security** | Implemented client-side input validation, local storage session management, controlled access to bill printing after login, and prevented invalid                   user interactions through JavaScript validation. |
+| **Impact** | Created a modern café website that improves customer engagement with interactive ordering, dynamic menu filtering, responsive design, and an                        enhanced digital shopping experience. |
+| **Repository** | [View Repo](https://github.com/RISHI7006/Coffee_shop_frontend) |
 
-Short paragraph explaining the architecture decisions, challenges solved, and technical highlights of the project.
+
 
 </details>
 
@@ -149,46 +142,42 @@ Short paragraph explaining the architecture decisions, challenges solved, and te
 
 ## 💼 Experience
 
-### **Job Title** · Company Name
-📅 *Month Year — Present*
+### **AI/ML Virtual Internship** ·Google (via EduSkills Foundation) 
+📅 *Jan 2026 – Mar 2026 *
 
 Professional one-line description of the role and team.
 
-- Scope of work bullet point one
-- Scope of work bullet point two
-- Scope of work bullet point three
-
-`Skill Tag` `Skill Tag` `Skill Tag` `Skill Tag`
+•	Built and trained machine learning models using Python and Scikit-learn 
+•	Worked on data preprocessing, feature engineering, and model evaluation 
+•	Implemented supervised learning algorithms for prediction tasks 
+•	Completed hands-on projects under Google supported virtual internship program 
 
 <br/>
 
-### **Previous Job Title** · Previous Company Name
-📅 *Month Year — Month Year*
+### **Cloud Generative AI Virtual Internship** · Google (via EduSkills Foundation) 
+📅 *April 2026– June 2026*
 
 Professional one-line description of the role and team.
 
-- Scope of work bullet point one
-- Scope of work bullet point two
+•	Gaining practical knowledge about Generative AI, Large Language Models (LLMs), Prompt Engineering, and Responsible AI concepts Worked on data preprocessing, feature engineering, and model evaluation 
+•	Working with Google Vertex AI, multimodal AI techniques, embeddings, transformer models, and AI workflow automation. Completed hands-on projects under Google supported virtual internship program 
 
-`Skill Tag` `Skill Tag` `Skill Tag`
+<br/>
+
+### **Machine Learning Intern Remote ** ·Unified Mentor Pvt. Ltd. (EdTech / AI & Machine Learning Solutions) 
+📅 *June 2026 -Ongoing*
+
+-Collaborated with a team of data scientists and machine learning engineers to design, develop, and evaluate end-to-end AI/ML solutions for real-world business problems.
+-Built and optimized machine learning models using Python and Scikit-learn, performed data preprocessing, feature engineering, and model evaluation to improve prediction accuracy.
+-Developed interactive data visualization dashboards and deployed ML applications using Streamlit, enabling real-time predictions and user-friendly model interaction.
+-Worked in an Agile team environment, participating in code reviews, documentation, and knowledge-sharing sessions while following industry best practices for model development and deployment.
+
 
 <br/>
 
 ---
 
-## 🏆 Achievements
 
-<div align="center">
-
-| Recognition | Details |
-|:--|:--|
-| 🥇 Achievement Name | Brief context — event, date, scale |
-| 🥈 Achievement Name | Brief context — event, date, scale |
-| 🏅 Achievement Name | Brief context — event, date, scale |
-
-</div>
-
-<br/>
 
 ---
 
@@ -287,9 +276,9 @@ Open To:   ["Full-time Roles", "Freelance Projects", "Collaboration", "Mentorshi
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](rishimis0706@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-mishra-156085307/)
+[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RISHI7006)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 
 </div>
