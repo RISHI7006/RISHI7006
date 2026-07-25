@@ -179,21 +179,19 @@ Professional one-line description of the role and team.
 
 
 
----
-
 ## 📜 Certifications
 
-**AWS**
-![AWS Cert](https://img.shields.io/badge/AWS-Certification%20Name-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+**Google**
+![AI-ML Virtual Internship](https://certificate.eduskillsfoundation.org/verify/4b2b8e7965af84854e81/4b2b8e7965af84854e81)
 
-**Oracle**
-![Oracle Cert](https://img.shields.io/badge/Oracle-Certification%20Name-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+**Google**
+![Generative - AI Virtual Internship](https://certificate.eduskillsfoundation.org/verify/4e5a957947990e227142/4e5a957947990e227142)
 
-**NPTEL**
-![NPTEL Cert](https://img.shields.io/badge/NPTEL-Course%20Name-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+**Nasscom**
+![LLM For Young Developers](https://www.futureskillsprime.in/iDH/user/credential/view/32914-b7f7e25e-08de-11f1-bdec-005056b48b54)
 
-**Cisco**
-![Cisco Cert](https://img.shields.io/badge/Cisco-Certification%20Name-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+**Algo University**
+![GEN+AI+Camp](https://d3uam8jk4sa4y4.cloudfront.net/static/certificates/GEN_AI_Camp/rishabh-mishra.png)
 
 <br/>
 
@@ -263,7 +261,7 @@ Professional one-line description of the role and team.
 
 ```yaml
 Learning:  ["Distributed Systems", "Advanced LLM Architectures", "System Design"]
-Building:  ["Project Name / SaaS Idea", "Open Source Contribution"]
+Building:  [ "Open Source Contribution"]
 Exploring: ["Rust", "Vector Databases", "Edge Computing"]
 Open To:   ["Full-time Roles", "Freelance Projects", "Collaboration", "Mentorship"]
 ```
