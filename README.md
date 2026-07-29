@@ -54,7 +54,7 @@ I am a quick learner who believes in consistency, teamwork, and continuous growt
 ## 🛠️ Tech Stack
 
 **Languages**
-![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts)  ![C++](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js)  ![C++](https://skillicons.dev/icons?i=cpp)
 
 **Frontend**
 ![React](https://skillicons.dev/icons?i=react)  ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
